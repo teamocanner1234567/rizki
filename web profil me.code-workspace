@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../website gabut"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web profil me"
+	}
+}
